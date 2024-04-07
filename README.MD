@@ -1,2 +1,2 @@
-Proyectos python realizdos.
+Proyectos python realizados.
 Jorge Ayona
